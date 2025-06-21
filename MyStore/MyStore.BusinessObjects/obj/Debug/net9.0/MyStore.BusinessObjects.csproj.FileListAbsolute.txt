@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\bin\Debug\net9.0\MyStore.BusinessObjects.deps.json
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\bin\Debug\net9.0\MyStore.BusinessObjects.runtimeconfig.json
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\bin\Debug\net9.0\MyStore.BusinessObjects.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\bin\Debug\net9.0\MyStore.BusinessObjects.pdb
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\refint\MyStore.BusinessObjects.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.pdb
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\MyStore.BusinessObjects.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.BusinessObjects\obj\Debug\net9.0\ref\MyStore.BusinessObjects.dll

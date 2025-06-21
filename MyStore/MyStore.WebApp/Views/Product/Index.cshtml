@@ -1,0 +1,55 @@
+@model IEnumerable<MyStore.BusinessObjects.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Danh sách sản phẩm</h2>
+    <a asp-action="Create" class="btn btn-success">
+        <i class="fas fa-plus"></i> Thêm sản phẩm
+    </a>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Tên sản phẩm</th>
+                <th>Danh mục</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.ProductId)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Category.CategoryName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.UnitsInStock)</td>
+                        <td>@Html.DisplayFor(modelItem => item.UnitPrice)</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-info btn-sm">Chi tiết</a>
+                                <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-warning btn-sm">Sửa</a>
+                                <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-danger btn-sm">Xóa</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" class="text-center">Không có sản phẩm nào</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

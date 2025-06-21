@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\bin\Debug\net9.0\MyStore.Repositories.deps.json
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\bin\Debug\net9.0\MyStore.Repositories.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\bin\Debug\net9.0\MyStore.Repositories.pdb
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\bin\Debug\net9.0\MyStore.BusinessObjects.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\bin\Debug\net9.0\MyStore.BusinessObjects.pdb
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore..2174C225.Up2Date
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\refint\MyStore.Repositories.dll
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\MyStore.Repositories.pdb
+C:\Users\ASUS\Desktop\hoc_hanh\softwave\SWP\MyStore\MyStore.Repositories\obj\Debug\net9.0\ref\MyStore.Repositories.dll

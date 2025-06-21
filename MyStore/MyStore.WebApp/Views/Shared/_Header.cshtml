@@ -1,0 +1,44 @@
+<header class="header-gradient text-white py-4">
+    <div class="container">
+        <h1 class="mb-0">
+            <a asp-controller="Home" asp-action="Index" class="logo-link text-white text-decoration-none">
+                <i class="fas fa-store me-2"></i>
+                <span>MyStore</span>
+            </a>
+        </h1>
+    </div>
+</header>
+
+<style>
+.header-gradient {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.logo-link {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+}
+
+.logo-link:hover {
+    transform: translateY(-2px);
+    color: white !important;
+    text-decoration: none !important;
+    text-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.logo-link i {
+    font-size: 1.8rem;
+    opacity: 0.9;
+    transition: transform 0.3s ease;
+}
+
+.logo-link:hover i {
+    transform: rotate(10deg);
+}
+</style>

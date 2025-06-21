@@ -1,0 +1,37 @@
+/* Sticky Footer CSS - Thêm vào file site.css */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Wrapper cho toàn bộ content (trừ footer) */
+.main-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Container chính cho nội dung */
+.content-container {
+    flex: 1;
+}
+
+/* Footer sẽ tự động xuống cuối */
+footer {
+    margin-top: auto;
+}
+
+/* Alternative: Sử dụng Bootstrap classes */
+.min-vh-100 {
+    min-height: 100vh !important;
+}
+
+.flex-grow-1 {
+    flex-grow: 1 !important;
+}

@@ -1,0 +1,73 @@
+<footer class="footer-modern text-white text-center py-4 mt-5">
+    <div class="container">
+        <div class="footer-content">
+            <h5 class="mb-3">MyStore</h5>
+            <div class="contact-info mb-3">
+                <p class="mb-1">
+                    <i class="fas fa-envelope me-2"></i>
+                    <a href="mailto:nguyetnm4741@ut.edu.vn" class="text-white text-decoration-none">
+                        nguyetnm4741@ut.edu.vn
+                    </a>
+                </p>
+                <p class="mb-0">
+                    <i class="fas fa-phone me-2"></i>
+                    <a href="tel:0387367748" class="text-white text-decoration-none">
+                        0387 367 748
+                    </a>
+                </p>
+            </div>
+            <p class="copyright mb-0">&copy; 2025 MyStore. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<style>
+.footer-modern {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    border-top: 3px solid #667eea;
+    position: relative;
+}
+
+.footer-modern::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    position: relative;
+    z-index: 1;
+}
+
+.footer-modern h5 {
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.contact-info a {
+    transition: all 0.3s ease;
+}
+
+.contact-info a:hover {
+    color: #667eea !important;
+    text-decoration: underline !important;
+}
+
+.contact-info i {
+    color: #667eea;
+    width: 20px;
+}
+
+.copyright {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 15px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    padding-top: 15px;
+}
+</style>
